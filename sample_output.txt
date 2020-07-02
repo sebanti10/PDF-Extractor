@@ -1,44 +1,65 @@
 Enter how many pages you want questions for: 
 1
-1. ['Which among the following chro-nology is correct regarding four‚samvatas™?', '(1)GuptaŒGregorianŒHizriŒSaka(2)GregorianŒSakaŒHizriŒGupta(3)SakaŒGregorianŒHizriŒGupta(4)HizriŒGuptaŒGregorianŒSaka(SSC Section Officer (Audit)Exam.year 1997']
+1. Which among the following chro-nology is correct regarding four‚samvatas™?
+(1)GuptaŒGregorianŒHizriŒSaka(2)GregorianŒSakaŒHizriŒGupta(3)SakaŒGregorianŒHizriŒGupta(4)HizriŒGuptaŒGregorianŒSaka(SSC Section Officer (Audit)Exam.year 1997
 =============================
-2. ['The home of Gargi, Maitrey, andKapila was at', '(1)Vidisha(2) Ujjain(3)Pataliputra(4)Mithila(SSC Section Officer (Audit)Exam.year 1997']
+2. The home of Gargi, Maitrey, andKapila was at
+(1)Vidisha(2) Ujjain(3)Pataliputra(4)Mithila(SSC Section Officer (Audit)Exam.year 1997
 =============================
-3. ['Which area of India was knownas Avantika in ancient times ?', '(1)Avadh(2)Ruhelkhand(3)Bundelkhand(4)Malwa(SSC Section Officer (Audit)Exam.year 1997']
+3. Which area of India was knownas Avantika in ancient times ?
+(1)Avadh(2)Ruhelkhand(3)Bundelkhand(4)Malwa(SSC Section Officer (Audit)Exam.year 1997
 =============================
-4. ['The Social System of the Harap-pans was :', '(1)Fairly egalitarian(2)Slave-Labour based(3)Colour (Varna)  based(4)Caste based(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting']
+4. The Social System of the Harap-pans was :
+(1)Fairly egalitarian(2)Slave-Labour based(3)Colour (Varna)  based(4)Caste based(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting
 =============================
-5. ['Which of the following Vedas pro-vides information about the civil-isation of the EarlyVedicAge?', '(1)Rig-veda(2)Yajur-veda(3)Atharva-veda(4)Sama-veda(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting']
+5. Which of the following Vedas pro-vides information about the civil-isation of the EarlyVedicAge?
+(1)Rig-veda(2)Yajur-veda(3)Atharva-veda(4)Sama-veda(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting
 =============================
-6. ['The university which became fa-mous in the post-Gupta Era was:', '(1)Kanchi(2)Taxila(3)Nalanda(4)Vallabhi(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting']
+6. The university which became fa-mous in the post-Gupta Era was:
+(1)Kanchi(2)Taxila(3)Nalanda(4)Vallabhi(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting
 =============================
-7. ['Banabhatta was the court poetof which emperor ?', '(1)Vikramaditya(2)Kumaragupta(3)Harshavardhana(4)Kanishka(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting']
+7. Banabhatta was the court poetof which emperor ?
+(1)Vikramaditya(2)Kumaragupta(3)Harshavardhana(4)Kanishka(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting
 =============================
-8. ['The first Indian ruler, who estab-lished the supremacy of IndianNavy in the Arabian Seawas:', '(1)Rajaraja I(2)Rajendra I(3)Rajadhiraja I(4)Kulottunga I(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting']
+8. The first Indian ruler, who estab-lished the supremacy of IndianNavy in the Arabian Seawas:
+(1)Rajaraja I(2)Rajendra I(3)Rajadhiraja I(4)Kulottunga I(SSC Combined Graduate LevelPrelim Exam. 04.07.1999 (Ist Sitting
 =============================
-9. ['Which statement on the Harap-pan Civilisation is correct?', '(1)Horse sacrifice was knownto them.(2)Cow was sacred to them.(3)‚Pashupati™ was venerated bythem.(4)The culture was notgenerallystatic.(SSC Combined Graduate LevelPrelim Exam. 04.07.1999(IInd Sitting']
+9. Which statement on the Harap-pan Civilisation is correct?
+(1)Horse sacrifice was knownto them.(2)Cow was sacred to them.(3)‚Pashupati™ was venerated bythem.(4)The culture was notgenerallystatic.(SSC Combined Graduate LevelPrelim Exam. 04.07.1999(IInd Sitting
 =============================
-10. ['The First Tirthankara of theJains was :', '(1)Arishtanemi  (2) Parshvanath(3)Ajitanath(4)Rishabha(SSC Combined Graduate LevelPrelim Exam. 04.07.1999(IInd Sitting']
+10. The First Tirthankara of theJains was :
+(1)Arishtanemi  (2) Parshvanath(3)Ajitanath(4)Rishabha(SSC Combined Graduate LevelPrelim Exam. 04.07.1999(IInd Sitting
 =============================
-11. ['The greatsilk-route to the In-dians was opened by :', '(1)Kanishka(2)Ashoka(3)Harsha(4)Fa-Hien(SSC Combined Graduate LevelPrelim Exam. 04.07.1999(IInd Sitting']
+11. The greatsilk-route to the In-dians was opened by :
+(1)Kanishka(2)Ashoka(3)Harsha(4)Fa-Hien(SSC Combined Graduate LevelPrelim Exam. 04.07.1999(IInd Sitting
 =============================
-12. ['The rulers of which dynastystarted the practice of grantingtax-free villages to Brahmanasand Buddhist Monks?', '(1)Satavahanas(2)Mauryas(3)Guptas(4)Cholas(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (Ist Sitting']
+12. The rulers of which dynastystarted the practice of grantingtax-free villages to Brahmanasand Buddhist Monks?
+(1)Satavahanas(2)Mauryas(3)Guptas(4)Cholas(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (Ist Sitting
 =============================
-13. ['The most important text of vedicmathematics is :', '(1)Satapatha Brahman(2)Atharva Veda(3)Sulva Sutras(4)Chhandogya Upanishad(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (Ist Sitting']
+13. The most important text of vedicmathematics is :
+(1)Satapatha Brahman(2)Atharva Veda(3)Sulva Sutras(4)Chhandogya Upanishad(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (Ist Sitting
 =============================
-14. ['Yavanika or curtain wasintroduced in Indian theatre bywhich of the following?', '(1)Shakas(2)Parthians(3)Greeks(4)Kushans(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (IInd Sitting']
+14. Yavanika or curtain wasintroduced in Indian theatre bywhich of the following?
+(1)Shakas(2)Parthians(3)Greeks(4)Kushans(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (IInd Sitting
 =============================
-15. ['Who started the Saka Era whichis still used by the Governmentof India?', '(1)Kanishka(2)Vikramaditya(3)Samudra Gupta(4)Asoka(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (IInd Sitting']
+15. Who started the Saka Era whichis still used by the Governmentof India?
+(1)Kanishka(2)Vikramaditya(3)Samudra Gupta(4)Asoka(SSC Combined Graduate LevelPrelim Exam. 27.02.2000 (IInd Sitting
 =============================
-16. ['What inspired the paintings ofAjanta ?', '(1) Compassionate Buddha(2) Radha-Krishan Leela(3) Jain Thirthankaras(4) Mahabharata encounters(SSC Section Officer (Audit)Exam. Held on 09.09.2001']
+16. What inspired the paintings ofAjanta ?
+(1) Compassionate Buddha(2) Radha-Krishan Leela(3) Jain Thirthankaras(4) Mahabharata encounters(SSC Section Officer (Audit)Exam. Held on 09.09.2001
 =============================
-17. ['Who among the following was thefirst to invade India?', '(1) Xerxes(2) Alexander(3) Darius-I(4) Seleucus(SSC Section Officer (Audit)Exam. 09.09.2001']
+17. Who among the following was thefirst to invade India?
+(1) Xerxes(2) Alexander(3) Darius-I(4) Seleucus(SSC Section Officer (Audit)Exam. 09.09.2001
 =============================
-18. ['Which among the following is theoldest dynasty ?', '(1) Maurya(2) Gupta(3) Kushan(4) Kanva(SSC Combined Graduate LevelPrelim Exam. 24.02.2002 (Ist Sitting']
+18. Which among the following is theoldest dynasty ?
+(1) Maurya(2) Gupta(3) Kushan(4) Kanva(SSC Combined Graduate LevelPrelim Exam. 24.02.2002 (Ist Sitting
 =============================
-19. ['With which of the following is theclassic ﬁJivaka Chintamaniﬂ inTamil associated ?', '(1) Jainism(2) Buddhism(3) Hinduism(4) Christianity(SSC Combined Graduate LevelPrelim Exam. 24.02.2002 (Ist Sitting']
+19. With which of the following is theclassic ﬁJivaka Chintamaniﬂ inTamil associated ?
+(1) Jainism(2) Buddhism(3) Hinduism(4) Christianity(SSC Combined Graduate LevelPrelim Exam. 24.02.2002 (Ist Sitting
 =============================
-20. ['Where did Lord Buddha breathehis last?', '(1) Rajgir(2) Bodh Gaya(3) Sarnath(4) Kushinagar(SSC Combined Graduate LevelPrelim Exam. 24.02.2002(IInd Sitting) andSSC SectionOfficer (Commercial Audit) Exam.25.09.2005 and SSC Combined Matric']
+20. Where did Lord Buddha breathehis last?
+(1) Rajgir(2) Bodh Gaya(3) Sarnath(4) Kushinagar(SSC Combined Graduate LevelPrelim Exam. 24.02.2002(IInd Sitting) andSSC SectionOfficer (Commercial Audit) Exam.25.09.2005 and SSC Combined Matric
 =============================
-21. ['Who were the first kings to is-sue gold coins in India?', '(1) Mauryas(2) Indo-Greeks(3) Guptas(4) Kushans(SSC Combined Graduate LevelPrelim Exam. 24.02.2002(IInd Sitting)INDIAN HISTORY1']
+21. Who were the first kings to is-sue gold coins in India?
+(1) Mauryas(2) Indo-Greeks(3) Guptas(4) Kushans(SSC Combined Graduate LevelPrelim Exam. 24.02.2002(IInd Sitting)INDIAN HISTORY1
 =============================
