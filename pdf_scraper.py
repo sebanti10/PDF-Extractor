@@ -83,5 +83,6 @@ if __name__=='__main__':
 
 	for i,j in final_dict.items():
 		print(i, end='. ')
-		print(j)
+		for k in j:
+			print(k)
 		print("=============================")
